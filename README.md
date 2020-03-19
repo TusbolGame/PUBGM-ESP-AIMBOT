@@ -1,7 +1,7 @@
 # PUBGM-ESP-AIMBOT
 Pubg Mobile 0.17.0 ESP &amp; AIMBOT Hack using using BypaPH, bypasses process read/write restrictions.
 
-# Toools
+# Tools:
 - C#
 - VS2019
 
