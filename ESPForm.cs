@@ -126,12 +126,12 @@ namespace PUBGMESP
             if (Settings.ShowMenu)
             {
                 //gfx.FillRectangle(_menuBrush, 10f, _window.Height / 2 - 75, 180, _window.Height / 2 + 165);
-                DrawShadowText(gfx, _font, _green, new Point(20f, _window.Height / 2 - 65), "  [ AM7 PUBG ] ");
+                DrawShadowText(gfx, _font, _green, new Point(20f, _window.Height / 2 - 65), "  [ Salm.Karwan ] ");
                 DrawShadowText(gfx, _font, _green, new Point(20f, _window.Height / 2 - 50), "┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈");
                 DrawShadowText(gfx, _font, _green, new Point(20f, _window.Height / 2 - 35), "ESP Menu");
                 if (Settings.PlayerESP)
                 {
-                    DrawShadowText(gfx, _font, _red, new Point(20f, _window.Height / 2 - 20), "Player ESP    (Num1) :  " + Settings.PlayerESP.ToString());
+                    DrawShadowText(gfx, _font, _red, new Point(20f, _window.Height / 2 - 20), "NAFAR ESP    (Num1) :  " + Settings.PlayerESP.ToString());
                 }
                 else
                 {
