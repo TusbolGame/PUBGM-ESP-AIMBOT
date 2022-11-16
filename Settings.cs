@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PUBGMESP
+namespace Salm.Karwan
 {
     internal class Settings
     {
